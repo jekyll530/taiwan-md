@@ -204,6 +204,10 @@ import Layout from '../layouts/Layout.astro';
           </p>
           <p>但這樣的地方並不存在。</p>
           <p class="motivation-emphasis">於是，Taiwan.md 誕生了。</p>
+          <blockquote class="founder-quote">
+            「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
+            <cite>— 哲宇</cite>
+          </blockquote>
         </div>
 
         <div class="founder-links">
@@ -811,6 +815,27 @@ import Layout from '../layouts/Layout.astro';
     font-weight: 600;
     color: #1e40af !important;
     margin-top: 1rem !important;
+  }
+
+  .founder-quote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    border-left: 4px solid #2d5016;
+    background: rgba(45, 80, 22, 0.05);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    font-size: 1.15rem;
+    line-height: 2;
+    color: #1f2937;
+  }
+
+  .founder-quote cite {
+    display: block;
+    margin-top: 0.5rem;
+    font-style: normal;
+    font-weight: 600;
+    color: #2d5016;
+    font-size: 0.95rem;
   }
 
   /* Founder Links */

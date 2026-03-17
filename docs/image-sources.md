@@ -87,21 +87,44 @@
 | 陳有蘭溪谷 | https://commons.wikimedia.org/wiki/File:Nantou-County_Taiwan_Chenyoulan-River-Valley-01.jpg | CC BY-SA 4.0 | Wikimedia Commons | 河川生態 |
 | 花蓮海灣 | https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_CiSingTan_Bay_First_Light_FRD_8235.jpg | CC BY-SA 4.0 | Wikimedia Commons | 海洋環境 |
 
-## 下載優先級
+## 已下載圖片清單（15 張）
 
-### 高優先級（封面圖片，需立即下載）
-1. 太魯閣峽谷（地理封面）
-2. 台北 101 夜景（經濟封面）
-3. 龍山寺（文化封面）
-4. 故宮博物院（藝術封面）
-5. 阿里山森林鐵路（交通封面）
+### 地理風貌 (Geography)
+- ✅ `taroko-gorge-swallow-grotto.jpg` - 太魯閣燕子口（1.1M）
+- ✅ `qingshui-cliffs-suhua-highway.jpg` - 花蓮清水斷崖（282K）
+- ✅ `sansiantai-bridge.jpg` - 台東三仙台（262K）
 
-### 中優先級（內文配圖）
-6. 花蓮清水斷崖
-7. 墾丁海灘
-8. 三仙台
-9. 高雄港浮塢
-10. 珍珠奶茶（需從 Unsplash 確認具體圖片）
+### 歷史建築 (History)
+- ✅ `presidential-office-building.jpg` - 台北總統府（363K）
+
+### 文化宗教 (Culture)
+- ✅ `taipei-longshan-temple.jpg` - 台北龍山寺（193K）
+- ✅ `bunun-monument-indigenous.jpg` - 布農族紀念碑（381K）
+- ✅ `sun-moon-lake-ropeway.jpg` - 日月潭纜車（415K）
+
+### 藝術娛樂 (Arts)
+- ✅ `national-palace-museum.jpg` - 故宮博物院（419K）
+
+### 交通運輸 (Transportation)
+- ✅ `alishan-forest-railway.jpg` - 阿里山森林鐵路（665K）
+- ✅ `kaohsiung-mrt-sanduo-station.jpg` - 高雄捷運站（293K）
+
+### 經濟產業 (Economy)
+- ✅ `kaohsiung-port-floating-dock.jpg` - 高雄港浮塢（235K）
+
+### 科學技術 (Science & Technology)
+- ✅ `kenting-weather-radar-station.jpg` - 墾丁氣象雷達站（592K）
+
+### 政治社會 (Politics)
+- ✅ `white-terror-memorial.jpg` - 白色恐怖紀念碑（468K）
+
+### 美食文化 (Food)
+- ✅ `sweet-potato-hawker-street-food.jpg` - 地瓜攤販（741K）
+
+### 運動休閒 (Sports & Recreation)
+- ✅ `kenting-beach.jpg` - 墾丁海灘（256K）
+
+**總計：15 張圖片，約 6.9MB**
 
 ## 授權注意事項
 
@@ -123,5 +146,44 @@
 - 檔名採用描述性英文命名
 - 控制總數量在 30 張以內
 
+## 建議補充圖片
+
+以下是仍需搜羅的重點主題圖片：
+
+### 高優先級缺口
+1. **台北 101 夜景** - 經濟類別封面（Unsplash 有但下載受限）
+2. **夜市全景** - 美食類別需要，目前只有街頭攤販
+3. **珍珠奶茶特寫** - 台灣美食代表（Unsplash 有資源）
+4. **高鐵列車** - 現代化交通建設
+5. **媽祖遶境** - 台灣宗教文化特色
+
+### 中優先級補充
+6. **九份老街** - 觀光文化
+7. **蘭嶼/綠島** - 離島地理
+8. **原住民傳統服飾** - 文化多樣性
+9. **台積電廠房外觀** - 科技產業（目前用水泥廠替代）
+10. **校園場景** - 教育類別
+
+## 搜尋建議
+
+### Unsplash 關鍵字
+- "Taiwan night market"
+- "Bubble tea close up"
+- "Taipei 101 night"
+- "Taiwan high speed rail"
+- "Jiufen old street"
+
+### Wikimedia Commons 分類
+- Category:Night_markets_in_Taiwan
+- Category:Taiwan_High_Speed_Rail
+- Category:Temples_in_Taiwan
+- Category:Indigenous_peoples_of_Taiwan
+
+### Flickr CC 搜尋
+- "Taiwan temple festival" + CC BY
+- "Taiwan aboriginal culture" + CC BY-SA
+- "Taiwan modern architecture" + CC BY
+
 ## 最後更新
-2026-03-17
+2026-03-17 21:07 GMT+8
+新增 15 張 CC 授權台灣圖片，總容量 6.9MB
