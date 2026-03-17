@@ -7,6 +7,9 @@ description: "台灣生活方式融合傳統與現代，創造獨特的島嶼文
 
 # 台灣生活 🏠
 
+![台北市街景](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sec._1%2C_Hankou_Street%2C_Zhongzheng_District%2C_Taipei_City_%28Taiwan%29.JPG)
+*圖片來源：[Malcolm Koo](https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+
 > **30 秒概覽：** 台灣以全民健保覆蓋率99.9%、便利商店密度全球第二、機車普及率70%，創造獨特的生活型態。24小時便利商店、夜市文化、機車通勤，形成台灣人獨有的生活節奏。傳統人情味與現代便利性完美結合，展現小島的大幸福。
 
 ## 為什麼重要

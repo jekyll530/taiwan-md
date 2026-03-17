@@ -7,6 +7,9 @@ description: "理解台灣歷史是理解當代台灣的鑰匙。台灣的政治
 
 # 台灣歷史 🏛️
 
+![台北總統府](https://upload.wikimedia.org/wikipedia/commons/9/94/Taipei_Taiwan_Presidential-Office-Building-01.jpg)
+*圖片來源：[CEphoto, Uwe Aranas](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
 > **30 秒概覽：** 台灣歷史跨越數千年，從南島語族的史前文化開始，歷經荷西殖民、明鄭統治、清朝管理、日本統治，到戰後國民政府遷台、戒嚴、解嚴，最終走向民主化，形成今日多元開放的台灣社會。
 
 ## 為什麼重要

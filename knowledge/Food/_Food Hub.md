@@ -7,6 +7,9 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 
 # 台灣美食 🍜
 
+![台灣珍珠奶茶](https://upload.wikimedia.org/wikipedia/commons/4/4d/Variations_of_Taiwanese_tapioca_pearls.JPG)
+*圖片來源：[Nandaro](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
+
 > **30 秒概覽：** 台灣美食融合了閩南、客家、外省、原住民、日式等多元飲食文化，從夜市小吃到精緻料理，形成獨特的「台式」風味。夜市文化更是台灣最具代表性的庶民美食文化。
 
 ## 為什麼重要

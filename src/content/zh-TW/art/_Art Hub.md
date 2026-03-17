@@ -7,6 +7,9 @@ description: "台灣當代藝術在國際舞台展現強勁實力，從威尼斯
 
 # 台灣藝術 🎨
 
+![台北市立美術館](https://upload.wikimedia.org/wikipedia/commons/6/64/Taipei-fine-arts-museum.jpg)
+*圖片來源：[Prattflora](https://commons.wikimedia.org/wiki/File:Taipei-fine-arts-museum.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
+
 > **30 秒概覽：** 台灣藝術從傳統工藝出發，融合現代西方藝術與本土文化，發展出獨特的創作能量。目前擁有國美館、北美館、高美館、當代館等重要美術館，自1995年參與威尼斯雙年展，1998年開始舉辦台北雙年展，在國際當代藝壇建立重要地位。
 
 ## 為什麼重要

@@ -7,6 +7,9 @@ description: "台灣以台積電為核心的半導體產業掌握全球晶圓代
 
 # 台灣科技 💻
 
+![台積電新竹廠](https://upload.wikimedia.org/wikipedia/commons/0/02/Tsmc_factory_hsinchu.JPG)
+*圖片來源：[Arusanov](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) / [公有領域](https://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F)*
+
 > **30 秒概覽：** 台灣從電子代工起家，發展成為全球半導體產業的核心，以台積電為代表的「護國神山」支撐著全球科技供應鏈。同時在開源文化、數位民主、社群驅動創新方面也走在世界前端。
 
 ## 為什麼重要

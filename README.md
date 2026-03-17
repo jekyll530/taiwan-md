@@ -163,6 +163,11 @@ featured: false
 （相關連結）
 ```
 
+### 圖片使用原則
+- 只使用 [Wikimedia Commons](https://commons.wikimedia.org/) 上 CC 授權的圖片
+- 每張圖片必須標注來源和授權條款
+- 格式：`![描述](URL)` + `*來源：作者 / 授權*`
+
 ---
 
 ## 📋 路線圖

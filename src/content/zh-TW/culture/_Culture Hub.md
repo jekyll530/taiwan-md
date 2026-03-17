@@ -7,6 +7,9 @@ description: "台灣文化的多元性不僅是歷史發展的結果，更是理
 
 # 台灣文化 🎭
 
+![天水宮廟宇建築](https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%A4%A9%E6%B0%B4%E5%AE%AB_Tianshui_Temple_-_panoramio.jpg)
+*圖片來源：[lienyuan lee](https://commons.wikimedia.org/wiki/File:天水宫_Tianshui_Temple_-_panoramio.jpg) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
+
 > **30 秒概覽：** 台灣文化是多元族群在島嶼環境中長期互動融合的結果。原住民、閩南、客家、外省、新住民等不同文化傳統，在這塊土地上交融碰撞，形成既保有各自特色又相互影響的豐富文化樣貌。
 
 ## 為什麼重要
