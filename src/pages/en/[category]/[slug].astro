@@ -121,7 +121,17 @@ function resolveWikilinks(markdownContent: string) {
 }
 
 const resolvedContent = resolveWikilinks(content);
-const processedContent = marked.parse(resolvedContent);
+
+// External links open in new tab
+const renderer = new marked.Renderer();
+renderer.link = ({ href, title, text }) => {
+  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
 <Layout 
